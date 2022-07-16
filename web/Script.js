@@ -1,9 +1,3 @@
-/*function{
-    
-}
-let money = document.getElementById("money")
-let zakat = document.write(0.025 * money);
-*/
 function calcZakat(){
     let money = document.getElementById('Money').value;
 
